@@ -8,4 +8,5 @@ The `report.tex` file contains the high-level organization, fonts, etc.  Each se
 
 ## Sample output
 
-![Sample report output](/sample.pdf)
+![Sample - Chapter start](/sample.thumbs-2.jpg)
+![Sample - Section start](/sample.thumbs-3.jpg)

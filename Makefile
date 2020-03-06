@@ -10,3 +10,7 @@ preview: build
 
 watch:
 	watchexec --exts tex,bib 'make preview'
+
+sample: build
+	mv report.pdf sample.pdf
+	pdftoppm sample.pdf sample.thumbs -jpeg -rx 100 -ry 100
